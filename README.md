@@ -1,4 +1,6 @@
-# RoboParrot-2.0
+# RoboParrot 2.0
 Software platform behind the RoboParrot social robot
-Requirements
-Cpp, OpenCV 2.4.10, Qt 5.3
+# Requirements
+Cpp<br>
+OpenCV 2.4.10<br>
+Qt 5.3
